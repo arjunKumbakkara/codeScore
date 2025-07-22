@@ -3,7 +3,8 @@
 A modern, production-ready code review application powered by DeepSeek AI and built with React, TypeScript, and Supabase. CodeScore provides comprehensive code analysis for Java, JavaScript, Python, and SQL queries with detailed scoring and optimization recommendations.
 
 Demo: Check it out at:
-[bit.ly/4m7Vehr](https://bit.ly/4m7Vehr)
+
+[CodeScore-Link]( https://tinyurl.com/codescore)
 
 ## 🏗️ Architecture Overview
 
