@@ -4,7 +4,7 @@ A modern, production-ready code review application powered by DeepSeek AI and bu
 
 Demo: Check it out at:
 
-Watch a demo : https://screenrec.com/share/PvxoUN6dcE
+Watch a demo : [Watch](https://screenrec.com/share/PvxoUN6dcE)
 [CodeScore-Link]( https://tinyurl.com/codescore)
 
 ## 🏗️ Architecture Overview
